@@ -29,7 +29,7 @@
 
 <br />
 
-### ⚡ System.out.println("Hello World");
+### ⚡ System.out.println("Informações Pessoais: ");
 
 - 🏫 **Educação:** Fundamentos sólidos no **CentroWEG** + Visão sistêmica na **Uniasselvi**.
 - 🎯 **Foco:** Crafting de interfaces "Pixel Perfect" e experiências de alta performance.
