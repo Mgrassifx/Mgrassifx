@@ -39,7 +39,7 @@
 
 ### 🛠️ Tech Deployment Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,java,python,mysql,figma,vscode,idea,arduino,jira&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,figma,vscode,idea,,jira&perline=12" />
 </p>
 
 <br />
