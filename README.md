@@ -15,16 +15,6 @@
   <br />
   <br />
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mgrassifx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrassifx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br />
